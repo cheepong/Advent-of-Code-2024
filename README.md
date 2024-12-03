@@ -1,0 +1,1 @@
+# Pong's Attempt of Advent of Code 2024
